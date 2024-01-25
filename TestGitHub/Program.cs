@@ -10,9 +10,12 @@ namespace TestGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Khoa");
-            Console.WriteLine("Chinh lai dong nay roi push len");
-            Console.WriteLine("Conflict ne, hello");
+            void chao()
+            {
+                int a = 10;
+                int b= 20;
+                System.Console.WriteLine(a + b);
+            }
         }
     }
 }
