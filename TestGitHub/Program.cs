@@ -10,6 +10,8 @@ namespace TestGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Khoa");
+            Console.WriteLine("Chinh lai dong nay roi push len");
         }
     }
 }
