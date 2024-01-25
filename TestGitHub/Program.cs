@@ -12,6 +12,7 @@ namespace TestGitHub
         {
             Console.WriteLine("Hello Khoa");
             Console.WriteLine("Chinh lai dong nay roi push len");
+            Console.WriteLine("Conflict ne");
         }
     }
 }
